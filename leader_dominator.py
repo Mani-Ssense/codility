@@ -1,3 +1,4 @@
+# https://app.codility.com/demo/results/trainingMDU3HH-G8H/
 def solution(A):
     if len(A) == 0:
         return -1
