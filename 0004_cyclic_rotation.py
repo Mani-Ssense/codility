@@ -6,7 +6,7 @@ def solution(A, K):
     
     for i in range(0, l):
         if i + K < l:
-            arr[i+K] = A[i]
+            arr[i + K] = A[i]
         else:
             idx = (i + K) % l
             arr[idx] = A[i] 
