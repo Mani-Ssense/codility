@@ -1,3 +1,4 @@
+# https://app.codility.com/demo/results/trainingN73ZSR-B8U/
 def solution(A):
     r = 0
     t = sum(A)
